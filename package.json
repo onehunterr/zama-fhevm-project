@@ -7,10 +7,10 @@
     "npm": ">=7.0.0"
   },
   "license": "BSD-3-Clause-Clear",
-  "homepage": "https://github.com/gusta/zama-fhevm-project/README.md",
+  "homepage": "https://github.com/onehunterr/zama-fhevm-project/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gusta/zama-fhevm-project.git"
+    "url": "git+https://github.com/onehunterr/zama-fhevm-project.git"
   },
   "keywords": [
     "fhevm",

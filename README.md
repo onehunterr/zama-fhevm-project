@@ -34,7 +34,7 @@ This project demonstrates how to build and test FHEVM smart contracts using Zama
 
 ```bash
 # Clone the repository
-git clone https://github.com/gusta/zama-fhevm-project.git
+git clone https://github.com/onehunterr/zama-fhevm-project.git
 cd zama-fhevm-project
 
 # Install dependencies
