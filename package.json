@@ -1,13 +1,13 @@
 {
-  "name": "zama-fhevm-project",
-  "description": "FHEVM Solidity smart contracts project with fixed TypeScript imports",
-  "version": "0.0.1",
+  "name": "fhe-payment-vault",
+  "description": "Privacy-preserving payment escrow system built on Zama's FHEVM - Hackathon Submission",
+  "version": "1.0.0",
   "engines": {
     "node": ">=20",
     "npm": ">=7.0.0"
   },
   "license": "BSD-3-Clause-Clear",
-  "homepage": "https://github.com/onehunterr/zama-fhevm-project/README.md",
+  "homepage": "https://github.com/onehunterr/zama-fhevm-project",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/onehunterr/zama-fhevm-project.git"
@@ -15,12 +15,18 @@
   "keywords": [
     "fhevm",
     "zama",
-    "eth",
+    "fhe",
+    "privacy",
+    "payments",
+    "escrow",
+    "defi",
     "ethereum",
-    "dapps",
-    "wallet",
+    "sepolia",
+    "hackathon",
+    "encryption",
     "web3",
     "typescript",
+    "react",
     "hardhat"
   ],
   "dependencies": {
