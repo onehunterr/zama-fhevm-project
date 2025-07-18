@@ -34,8 +34,8 @@ A privacy-preserving payment system built on Zama's FHEVM technology that keeps 
 
 ```bash
 # Clone the repository
-git clone https://github.com/onehunterr/zama-fhevm-project.git
-cd zama-fhevm-project
+git clone https://github.com/onehunterr/fhe-payment-vault.git
+cd fhe-payment-vault
 
 # Install dependencies
 npm install
@@ -227,7 +227,7 @@ We welcome contributions to make FHE Payment Vault even better!
 ### Development Setup
 ```bash
 # Fork the repository
-git clone https://github.com/YOUR_USERNAME/zama-fhevm-project.git
+git clone https://github.com/YOUR_USERNAME/fhe-payment-vault.git
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -290,7 +290,7 @@ This project is licensed under the BSD-3-Clause-Clear License - see the [LICENSE
 
 - **🌐 Live Demo**: [Sepolia Deployment](https://sepolia.etherscan.io/address/0x01953BA70f844E87802F7124413d34BAFD4e120d)
 - **📚 Zama Docs**: [FHEVM Documentation](https://docs.zama.ai/fhevm)
-- **🐙 GitHub**: [Project Repository](https://github.com/onehunterr/zama-fhevm-project)
+- **🐙 GitHub**: [Project Repository](https://github.com/onehunterr/fhe-payment-vault)
 - **🐦 Updates**: Follow development progress
 
 ## 🎉 Hackathon Submission

@@ -7,10 +7,10 @@
     "npm": ">=7.0.0"
   },
   "license": "BSD-3-Clause-Clear",
-  "homepage": "https://github.com/onehunterr/zama-fhevm-project",
+  "homepage": "https://github.com/onehunterr/fhe-payment-vault",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onehunterr/zama-fhevm-project.git"
+    "url": "git+https://github.com/onehunterr/fhe-payment-vault.git"
   },
   "keywords": [
     "fhevm",

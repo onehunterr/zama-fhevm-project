@@ -44,7 +44,7 @@ FHE Payment Vault is a revolutionary privacy-preserving payment escrow system bu
 - **Network**: Sepolia (Chain ID: 11155111)
 
 ### 🎮 How to Test
-1. **Clone**: `git clone https://github.com/onehunterr/zama-fhevm-project.git`
+1. **Clone**: `git clone https://github.com/onehunterr/fhe-payment-vault.git`
 2. **Install**: `npm install && cd frontend && npm install`
 3. **Run**: `npm run dev` (frontend) + `npm run compile` (contracts)
 4. **Connect**: MetaMask to Sepolia testnet
@@ -217,7 +217,7 @@ contract SalaryEscrowFHE {
 ### 📱 Application
 - **Live Demo**: [Frontend Interface](http://localhost:5173) (after setup)
 - **Sepolia Contract**: [0x01953BA70f844E87802F7124413d34BAFD4e120d](https://sepolia.etherscan.io/address/0x01953BA70f844E87802F7124413d34BAFD4e120d)
-- **GitHub Repository**: [zama-fhevm-project](https://github.com/onehunterr/zama-fhevm-project)
+- **GitHub Repository**: [fhe-payment-vault](https://github.com/onehunterr/fhe-payment-vault)
 
 ### 📚 Documentation
 - **Main README**: Comprehensive project overview
@@ -242,7 +242,7 @@ Special thanks to:
 
 **Developer**: Solo submission  
 **GitHub**: [@onehunterr](https://github.com/onehunterr)  
-**Project**: [zama-fhevm-project](https://github.com/onehunterr/zama-fhevm-project)  
+**Project**: [fhe-payment-vault](https://github.com/onehunterr/fhe-payment-vault)
 **Email**: Available upon request  
 
 ---
